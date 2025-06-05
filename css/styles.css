@@ -49,3 +49,10 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.highlighted-tagline {
+  display: inline-block;
+  background-color: #fff3cd;
+  padding: 4px 6px;
+  border-radius: 4px;
+  font-weight: 500;
+}
